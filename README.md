@@ -43,9 +43,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
-![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unreal-engine&logoColor=FFFFFF)
 ![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F5792A)
