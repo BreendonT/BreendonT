@@ -9,9 +9,7 @@
 ## Foco nas skills e mindset!!
 
 - 📓 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br" target="blank">Universidade Estácio de Sá</a>.
-- 💼 &nbsp; Trabalhando como **Técnico Em Eletrotécnica Sênior** na <a href="https://mastercoin.com.br" target="blank">MasterCoin</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Java/Kotlin para Desenvolvimento Mobile**.
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas** na <a href="https://mastercoin.com.br" target="blank">MasterCoin</a>.
 
 ### Onde me encontrar:
            
@@ -26,6 +24,7 @@
 ### Linguagens e Tecnologias:
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -43,6 +42,7 @@
 ### Ferramentas de Desenvolvimento:
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
