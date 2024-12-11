@@ -25,6 +25,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
