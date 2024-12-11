@@ -14,7 +14,7 @@
 ### Onde me encontrar:
            
 <div>
-<a href = "mailto:breendont@hotmail.com"><img src="https://img.shields.io/badge/Outlook-333333?style=flat&logo=microsoft-outlook&logoColor=white" target="blank"></a>
+<a href="mailto:breendont@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/brendon-teixeira/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 <br>
