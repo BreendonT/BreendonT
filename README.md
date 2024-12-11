@@ -46,6 +46,9 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=googlecolab)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity&logoColor=FFFFFF)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unreal-engine&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/-Blender-333333?style=flat&logo=blender&logoColor=F5792A)
 
 ### Sistemas Operacionais:
 
